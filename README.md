@@ -3,7 +3,9 @@ Angular Treeview
 
 Pure [AngularJS](http://www.angularjs.org) based tree menu directive.
 
-[![ScreenShot](https://github.com/MarcinSzoldrowski/angular.treeview/blob/master/img/preview.png)](http://jsfiddle.net/tFS2V/5/)
+[![ScreenShot](https://github.com/MarcinSzoldrowski/angular.treeview/raw/master/img/preview.png)](http://jsfiddle.net/tFS2V/5/)
+
+http://jsfiddle.net/tFS2V/5/
 
 Added:
 - simple search,
