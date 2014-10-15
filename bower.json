@@ -1,0 +1,25 @@
+{
+  "name": "beet-treeview",
+  "version": "0.0.1",
+  "main": [
+      "angular.treeview.js",
+      "css/angular.treeview.css"
+  ],
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    ".npmignore",
+    ".travis.yml",
+    "Makefile",
+    "bin",
+    "component.json",
+    "index.js",
+    "lib",
+    "node_modules",
+    "package.json",
+    "src",
+    "test"
+  ]
+}
+
